@@ -1,5 +1,5 @@
 {
-  "name": "windows98",
+  "name": "personal-website-prajna",
   "version": "1.0.0",
   "description": "Hey Everybody!",
   "main": "script.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucaArgentieri/windows98.git"
+    "url": "git+https://github.com/Prajna1999/personal-website-prajna.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucaArgentieri/windows98/issues"
+    "url": "https://github.com/Prajna1999/personal-website-prajna/issues"
   },
-  "homepage": "https://github.com/LucaArgentieri/windows98#readme"
+  "homepage": ""
 }
